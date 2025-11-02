@@ -18,3 +18,30 @@ Sistema Single Page Application (SPA) desenvolvido em JavaScript puro para ativi
 - Local Storage API
 
 ## 📁 Estrutura do Projeto
+
+meu-projeto/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ ├── app.js
+│ ├── router.js
+│ ├── templates.js
+│ ├── formValidator.js
+│ └── storage.js
+└── assets/
+
+
+## 🎯 Como Executar
+1. Clone o repositório
+2. Abra o arquivo `index.html` em um navegador web
+3. Navegue entre as páginas usando o menu superior
+4. Cadastre usuários no formulário de cadastro
+
+## 📄 Páginas da Aplicação
+- **Home**: Página inicial com estatísticas
+- **Usuários**: Lista de usuários cadastrados
+- **Cadastrar**: Formulário com validação para novo usuário
+
+## 👨‍💻 Desenvolvido por
+[Seu Nome] - Atividade de JavaScript Avançado
